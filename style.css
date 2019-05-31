@@ -3,7 +3,7 @@
 body {
   background-color: #1F1F1F;
   color: #FEFEFE;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Tinos', serif;
 }
 
 .all {
@@ -33,7 +33,7 @@ a {
   grid-column: 2/3;
   width: 60px;
   height: 5px;
-  background-color: #FDF734;
+  background-color: #128fa8;
 }
 
 .buttons {
